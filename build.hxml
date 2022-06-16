@@ -1,0 +1,10 @@
+--library hxvm-lua:git:https://github.com/kevinresol/hxvm-lua.git#76cf3db
+--library hxjs-fengari:git:https://github.com/kevinresol/hxjs-fengari#1a985c2
+--class-path src
+
+-D fengari_global
+
+-main Main
+--js bin/experiment.js
+
+--debug

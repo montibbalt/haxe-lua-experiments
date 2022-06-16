@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch index.html",
+            "type": "pwa-msedge",
+            //"type": "vscode-edge-devtools.debug",
+            "request": "launch",
+            //"url": "http://localhost:8000",
+            //"webRoot": "${workspaceFolder}/bin",
+            "file": "${workspaceFolder}/bin/index.html",
+        }
+    ]
+}
